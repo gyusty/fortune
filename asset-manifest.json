@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fortune/static/css/main.378346af.css",
+    "main.js": "/fortune/static/js/main.f4266a46.js",
+    "static/js/787.605d5608.chunk.js": "/fortune/static/js/787.605d5608.chunk.js",
+    "index.html": "/fortune/index.html",
+    "main.378346af.css.map": "/fortune/static/css/main.378346af.css.map",
+    "main.f4266a46.js.map": "/fortune/static/js/main.f4266a46.js.map",
+    "787.605d5608.chunk.js.map": "/fortune/static/js/787.605d5608.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.378346af.css",
+    "static/js/main.f4266a46.js"
+  ]
+}
