@@ -13,7 +13,7 @@ function TicketComponent({user, closeModal}) {
                     <span className="subtitle">Freidora de Aire Oster</span>
                 </div>
                 <div className="info-section">
-                    <span className="date">Fecha del Sorteo : 15/10/2022</span>
+                    <span className="date">Fecha del Sorteo : 25/10/2022</span>
                     <span className="user-data-container">Nombre: {user? user.name : ''}</span>
                     <span className="user-data-container">Direccion: {user? user.address : ''}</span>
                     <span className="user-data-container">Telefono: {user? user.phone : ''}</span>
