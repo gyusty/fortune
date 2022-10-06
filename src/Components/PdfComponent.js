@@ -58,7 +58,7 @@ const PdfComponent = ({user}) => {
                                         fontSize: '24px',
                                         fontWeight: 'bold',
                                         marginLeft: 'auto',
-                                        marginRight: 'auto'}}>Fecha del Sorteo : 15/10/2022</Text>
+                                        marginRight: 'auto'}}>Fecha del Sorteo : 25/10/2022</Text>
                         <Text style={{marginTop: '16px',
                                         marginLeft: '20px',
                                         fontSize: '16px',
